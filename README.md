@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EthGecko
+- 👋 Hi, I’m @cipher
 - 👀 I’m interested in Web3 development and game dev in unity
 - 🌱 I’m currently learning solidity
-- 📫 How to reach me @Gecko#0047 on Discord
+- 📫 How to reach me @ciper7214 on Discord
 
 <!---
 EthGecko/EthGecko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
