@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cipher
-- 👀 I’m interested in Web3 development and game dev in unity
-- 🌱 I’m currently learning solidity
+- 👀 I am a high school student passionate about web3 and philosophy 
+- 🌱 I’m currently learning solidity, java, and solidity
 - 📫 How to reach me @ciper7214 on Discord
 
 <!---
